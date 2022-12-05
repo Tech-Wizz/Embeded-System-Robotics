@@ -1,0 +1,3 @@
+~greetings: [hello hi howdy]
+~no: [no nope nada na incorrect]
+~yes: [yep yes definitely correct] 
