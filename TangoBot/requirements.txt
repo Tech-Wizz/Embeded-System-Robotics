@@ -1,0 +1,8 @@
+sudo apt-get install build-essential python-dev python-setuptools python-pip python-smbus -y
+sudo apt-get install libncursesw5-dev libgdbm-dev libc6-dev python3-sdl2 -y
+sudo apt-get install zlib1g-dev libsqlite3-dev tk-dev -y
+sudo apt-get install libssl-dev openssl -y
+sudo apt-get install libffi-dev gstreamer-1.0 -y
+sudo apt-get install libportaudio0 libportaudio2 libportaudiocpp0 portaudio19-dev libcairo2-dev libgirepository1.0-dev espeak -y
+python -m pip install --upgrade pip
+python -m pip install tk pillow setuptools pyaudio==0.2.11 SpeechRecognition==3.8.1 pyttsx3 pyserial gTTS pyttsx3 kivy playsound==1.2.2 pygobject
