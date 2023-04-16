@@ -1,0 +1,2 @@
+python -m pip install tk pyaudio==0.2.11 SpeechRecognition==3.8.1 pyttsx3 pyserial regex gTTS pyttsx3 kivy playsound==1.2.2
+sudo apt-get install gstreamer-1.0
